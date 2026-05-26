@@ -1,0 +1,33 @@
+{
+  "name": "apc-journeys-data",
+  "version": "0.1.0",
+  "description": "Canonical APC coaching journey content (Explorer, Pivot, Advancing). Source of truth for the inquiry call guide, intake system, and CRM.",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookbran/apc-journeys-data.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "typescript": "~5.8.0"
+  }
+}
