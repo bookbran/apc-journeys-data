@@ -25,7 +25,7 @@ export const JOURNEYS = [
             'Pressure to land high-income work fast',
             'Already clear on direction — Pivot or Advancing fits better',
         ],
-        recommendedCoaches: 'Krute, Autumn, Ursina',
+        recommendedCoaches: 'Krute, Autumn, Brad, Jeanne, Ursina',
         sessionCount: '~7 sessions · 3 phases',
         badgeColor: '#f26727',
         phases: [
