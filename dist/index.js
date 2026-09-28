@@ -44,7 +44,7 @@ export const JOURNEYS = [
                             'Identify energizing themes',
                             'Build psychological safety',
                         ],
-                        homework: 'IPIP 300 & 16 Personalities assessments',
+                        homework: 'APC Work Style & 16 Personalities assessments',
                     },
                     {
                         id: 2,
