@@ -126,7 +126,7 @@ export const JOURNEYS: Journey[] = [
             title: 'Industry Discovery',
             activities: [
               'Finalize Preferences Model',
-              'Explore your universe of industries, shaped by your Work Style and Work Signature',
+              'Explore your universe of industries, shaped by your Work Signature',
               'Real-time energy check',
               'Select 3–4 target industries',
             ],
@@ -239,7 +239,7 @@ export const JOURNEYS: Journey[] = [
             title: 'Industry Discovery',
             activities: [
               'Finalize preferences model',
-              'Explore your universe of industries together, shaped by your Work Style and Work Signature',
+              'Explore your universe of industries together, shaped by your Work Signature',
               'Review coach-researched listings',
               'Real-time energy check',
             ],
