@@ -126,7 +126,7 @@ export const JOURNEYS: Journey[] = [
             title: 'Industry Discovery',
             activities: [
               'Finalize Preferences Model',
-              'AI & O*NET exploration',
+              'Explore your universe of industries, shaped by your Work Style and Work Signature',
               'Real-time energy check',
               'Select 3–4 target industries',
             ],
@@ -239,7 +239,7 @@ export const JOURNEYS: Journey[] = [
             title: 'Industry Discovery',
             activities: [
               'Finalize preferences model',
-              'Co-explore industries via AI & O*NET',
+              'Explore your universe of industries together, shaped by your Work Style and Work Signature',
               'Review coach-researched listings',
               'Real-time energy check',
             ],
@@ -365,7 +365,7 @@ export const JOURNEYS: Journey[] = [
               'Review coach-researched listings in your tracker together',
               'Co-browse target companies, employee profiles & role postings',
               'Confirm and prioritize your target organization list',
-              "Coach-led LinkedIn About section drafted with AI & Joanie's materials",
+              "Coach-led LinkedIn About section, drafted from your story and Joanie's materials",
               'Update LinkedIn Experience with your strongest resume highlights',
             ],
             homework:
