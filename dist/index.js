@@ -13,7 +13,7 @@ export const JOURNEYS = [
         key: 'explorer',
         name: 'Career Explorer',
         tagline: 'Who you are, what energizes you, what could be next',
-        description: "For clients who don't yet know what they want to do next and have time and runway to do the work of figuring it out. Three phases over ~7 sessions: self-discovery, guided mapping with the coach, and a pathway plan they walk away with.",
+        description: "For clients who don't yet know what they want to do next and have time and runway to do the work of figuring it out. Three phases over ~7 sessions: self-discovery, guided mapping with the coach, and a pathway plan to carry forward.",
         bestFor: [
             'Has months of financial runway',
             'Open to a step down in pay if it leads somewhere right',
@@ -23,7 +23,7 @@ export const JOURNEYS = [
         notIdealWhen: [
             'Needs a job in weeks, not months',
             'Pressure to land high-income work fast',
-            'Already clear on direction — Pivot or Advancing fits better',
+            'Already clear on direction (Pivot or Advancing fits better)',
         ],
         recommendedCoaches: 'Krute, Autumn, Brad, Jeanne, Ursina',
         sessionCount: '~7 sessions · 3 phases',
@@ -81,7 +81,7 @@ export const JOURNEYS = [
                         title: 'Industry Discovery',
                         activities: [
                             'Finalize Preferences Model',
-                            'AI & O*NET exploration',
+                            'Explore your universe of industries, shaped by your Work Signature',
                             'Real-time energy check',
                             'Select 3–4 target industries',
                         ],
@@ -135,7 +135,7 @@ export const JOURNEYS = [
     {
         key: 'pivot',
         name: 'Pivot',
-        tagline: 'Something different — and bridges to get there within a year',
+        tagline: 'New work, with bridge roles that get you there within a year',
         description: 'For clients who want change and need a role within months, not years. Three phases over ~8 sessions: self-discovery, guided mapping with the coach, and search & interview prep, with Joanie working materials in parallel.',
         bestFor: [
             'Wants different work',
@@ -193,7 +193,7 @@ export const JOURNEYS = [
                         title: 'Industry Discovery',
                         activities: [
                             'Finalize preferences model',
-                            'Co-explore industries via AI & O*NET',
+                            'Explore your universe of industries together, shaped by your Work Signature',
                             'Review coach-researched listings',
                             'Real-time energy check',
                         ],
@@ -269,7 +269,7 @@ export const JOURNEYS = [
     {
         key: 'advancing',
         name: 'Advancing Job Search',
-        tagline: 'Strategy, materials, and confidence — moving fast',
+        tagline: 'Strategy, materials, and confidence for a fast search',
         description: "For clients who already know where they're headed and want a tight, focused job search. Three phases over ~6 sessions: target setting, guided mapping, and search & interview prep, with Joanie working materials in parallel.",
         bestFor: [
             'Clear on role + industry',
@@ -278,7 +278,7 @@ export const JOURNEYS = [
             'Materials likely already in motion (or going there with Joanie)',
         ],
         notIdealWhen: [
-            'Still figuring out what they want — Explorer or Pivot fits better',
+            'Still figuring out what they want (Explorer or Pivot fits better)',
             'Heavy applications + low response rate suggests starting with Joanie first',
         ],
         recommendedCoaches: 'Aimee, Emily, Victoria · Janet for senior/executive',
@@ -318,7 +318,7 @@ export const JOURNEYS = [
                             'Review coach-researched listings in your tracker together',
                             'Co-browse target companies, employee profiles & role postings',
                             'Confirm and prioritize your target organization list',
-                            "Coach-led LinkedIn About section drafted with AI & Joanie's materials",
+                            "Coach-led LinkedIn About section, drafted from your story and Joanie's materials",
                             'Update LinkedIn Experience with your strongest resume highlights',
                         ],
                         homework: 'Post LinkedIn About section live; begin outreach to warm contacts',

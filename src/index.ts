@@ -58,7 +58,7 @@ export const JOURNEYS: Journey[] = [
     name: 'Career Explorer',
     tagline: 'Who you are, what energizes you, what could be next',
     description:
-      "For clients who don't yet know what they want to do next and have time and runway to do the work of figuring it out. Three phases over ~7 sessions: self-discovery, guided mapping with the coach, and a pathway plan they walk away with.",
+      "For clients who don't yet know what they want to do next and have time and runway to do the work of figuring it out. Three phases over ~7 sessions: self-discovery, guided mapping with the coach, and a pathway plan to carry forward.",
     bestFor: [
       'Has months of financial runway',
       'Open to a step down in pay if it leads somewhere right',
@@ -68,7 +68,7 @@ export const JOURNEYS: Journey[] = [
     notIdealWhen: [
       'Needs a job in weeks, not months',
       'Pressure to land high-income work fast',
-      'Already clear on direction — Pivot or Advancing fits better',
+      'Already clear on direction (Pivot or Advancing fits better)',
     ],
     recommendedCoaches: 'Krute, Autumn, Brad, Jeanne, Ursina',
     sessionCount: '~7 sessions · 3 phases',
@@ -180,7 +180,7 @@ export const JOURNEYS: Journey[] = [
   {
     key: 'pivot',
     name: 'Pivot',
-    tagline: 'Something different — and bridges to get there within a year',
+    tagline: 'New work, with bridge roles that get you there within a year',
     description:
       'For clients who want change and need a role within months, not years. Three phases over ~8 sessions: self-discovery, guided mapping with the coach, and search & interview prep, with Joanie working materials in parallel.',
     bestFor: [
@@ -315,7 +315,7 @@ export const JOURNEYS: Journey[] = [
   {
     key: 'advancing',
     name: 'Advancing Job Search',
-    tagline: 'Strategy, materials, and confidence — moving fast',
+    tagline: 'Strategy, materials, and confidence for a fast search',
     description:
       "For clients who already know where they're headed and want a tight, focused job search. Three phases over ~6 sessions: target setting, guided mapping, and search & interview prep, with Joanie working materials in parallel.",
     bestFor: [
@@ -325,7 +325,7 @@ export const JOURNEYS: Journey[] = [
       'Materials likely already in motion (or going there with Joanie)',
     ],
     notIdealWhen: [
-      'Still figuring out what they want — Explorer or Pivot fits better',
+      'Still figuring out what they want (Explorer or Pivot fits better)',
       'Heavy applications + low response rate suggests starting with Joanie first',
     ],
     recommendedCoaches: 'Aimee, Emily, Victoria · Janet for senior/executive',
