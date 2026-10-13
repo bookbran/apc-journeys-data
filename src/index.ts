@@ -97,7 +97,7 @@ export const JOURNEYS: Journey[] = [
             activities: [
               'Debrief assessment results',
               'Map traits to past work',
-              'Identify thriving environments',
+              'Identify the places where you thrive',
               'Connect insights to directions',
             ],
             homework: 'Motivated Skills Matrix & Gallup Strengths',
@@ -150,7 +150,7 @@ export const JOURNEYS: Journey[] = [
               'Debrief curiosity conversation',
               'Draft outreach messages',
               'Role-play interview questions',
-              'Identify confirmation needs',
+              'Identify what you still need to confirm',
             ],
             homework: 'Send outreach; conduct interviews',
           },
@@ -344,7 +344,7 @@ export const JOURNEYS: Journey[] = [
             activities: [
               'Walk your resume and career story together',
               'Confirm target roles, industries & location preferences',
-              'Assess current materials and what needs updating',
+              'Look at your current materials and decide what to update',
               'Set priorities and search strategy',
               'Coach begins role research for next session',
             ],
@@ -381,7 +381,7 @@ export const JOURNEYS: Journey[] = [
               'Set application goals and weekly rhythm',
             ],
             homework:
-              'Send outreach messages already drafted; apply to 3–5 high-fit roles',
+              'Send outreach messages already drafted; apply to 3–5 roles that match what you want',
           },
         ],
       },
