@@ -29,7 +29,7 @@ export interface JourneyPhase {
 }
 export interface Journey {
     key: JourneyKey;
-    /** Display name, e.g. "Career Explorer". */
+    /** Display name, e.g. "Career Exploration". */
     name: string;
     /** Short serif-italic line under the name. */
     tagline: string;

@@ -33,7 +33,7 @@ export interface JourneyPhase {
 
 export interface Journey {
   key: JourneyKey
-  /** Display name, e.g. "Career Explorer". */
+  /** Display name, e.g. "Career Exploration". */
   name: string
   /** Short serif-italic line under the name. */
   tagline: string
@@ -55,8 +55,8 @@ export interface Journey {
 export const JOURNEYS: Journey[] = [
   {
     key: 'explorer',
-    name: 'Career Explorer',
-    tagline: 'Who you are, what energizes you, what could be next',
+    name: 'Career Exploration',
+    tagline: 'You'll learn what you do best and what you want from work, then choose a direction to pursue',
     description:
       "For clients who don't yet know what they want to do next and have time and runway to do the work of figuring it out. Three phases over ~7 sessions: self-discovery, guided mapping with the coach, and a pathway plan to carry forward.",
     bestFor: [
